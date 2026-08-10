@@ -1,0 +1,9 @@
+# Streamlit Community Cloud supplies a Linux/Python environment.  Keep the
+# scientific stack compatible with the deployment interpreter instead of
+# locking it to the local notebook's exact development builds.
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
