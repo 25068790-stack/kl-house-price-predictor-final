@@ -588,7 +588,7 @@ st.markdown(
             <div class="metric-value">{TEST_MAPE:.2f}%</div>
         </div>
         <div class="metric-card">
-            <div class="metric-label">Feature columns</div>
+            <div class="metric-label">Deployment features</div>
             <div class="metric-value">{len(feature_columns)}</div>
         </div>
     </div>
